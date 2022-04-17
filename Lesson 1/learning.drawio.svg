@@ -1,0 +1,31 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="801px" height="421px" viewBox="-0.5 -0.5 801 421" content="&lt;mxfile&gt;&lt;diagram id=&quot;aFguPaolhGaIaOtPQ0vN&quot; name=&quot;Oracle&quot;&gt;5VbBjpswEP0arlHAQMJxk2zbS9WV9tD26OIJWGswMs6G7NfXhiFgyCrRNmoPzSHyPNsPz5s3GI9si+azolX+VTIQXrBkjUd2XhCsiW/+LXDqgChEIFOcddAIeOZvgOAS0QNnUDsLtZRC88oFU1mWkGoHo0rJo7tsL4X71IpmMAOeUyrm6HfOdI5pBasB/wI8y/sn+3HSzRS0X4yZ1Dll8jiCyKNHtkpK3Y2KZgvCatfr0u379M7s+WAKSn3LhqDb8ErFAXPDc+lTn6ySh5KBXb/0yOaYcw3PFU3t7NFU12C5LoSJfDNEOlAamneP5J8TNQYBWYBWJ7Ok39Brg+bwCcbHQWoSI5aPZA4iBCmWNztzDwqYAYpwWRAyE2QjZPpizZRTXs7UMXlqVwIqeFaacWryBWUAqwY35nnAiYIzZrdvFNT8jf5qqay2leSlbs8ebbxoZ7kOWtad/S11rZV8ga0U0vDuSllalj0XYgLdoQpnMfsq+PMqrC8V4Q41CK+b0vRNZYd7Ac2D7WiTNZQMh7tU0LrmqVuYWlOl+xWoFDRc/7DyL5IkwfhnG8dhgPGuwfq0wWkUPIHiJjtb5Rbrjgls9va4qvpI1eiCqj2mQFDNX136S1LjE56so4aiRkmySEKnrkG4XqzD5fAjLmktDyoF5Bm/SCbU8cr1SxBNTmfEz0DPiFovnIW4yR7RzB7fFE2FuRD+l+aMwonY4bw5L74h79Cc8R83J+owuzWu94255lsXjXzwr1opTKZ+n2j74caJJ0T3a5zV7aVjVNNaSwV/5cpfLSca9D1+xc9TqW7wswmHr6tOw+ETlTz+Bg==&lt;/diagram&gt;&lt;diagram id=&quot;zwIjAD_PRtKfXYixznzn&quot; name=&quot;Decentralized&quot;&gt;tVXLboMwEPwajpEAA4FjS9L2UqkPVT27eANWDI5spyH9+prYvAJtlao9sZ5d79ozI+OgtKxvBd4V95wAc3yX1A5aOb7vRWGsPw1yNEiAQgPkghJb1APP9AMs6Fp0TwnIUaHinCm6G4MZryrI1AjDQvDDuGzD2XjqDucwAZ4zzKboKyWqMGjsL3v8DmhetJO9KDGZErfF9iaywIQfBhBaOygVnCsTlXUKrCGv5aV+4N4yYbfbu6c4eNwvXuQjXZhmN5ds6a4goFJ/2zowrd8x21u+UkabKb5rp0p1bKmUB1oyXOnV9YYylnLGxSmDNnEGWaZxqQTfwiDzFodB6OpMLjBpOg9ygKO3KNI5ewgQCuoz1X64stfpoA0MvAQljnqf7bLwWu2OrSnt+tBbIWhrioENOhBb++Vd855iHViWL2A8/Jpx/wLGISIugTnGkyTy4nCecRIuUUL+kfEg/plw350hvAP/nPBoQviU5gLvmnDDoL5q3hzNEFTEhquMYSmpsTcWagoXqtRHWnnfyPSdGF9LaE4KZPLE/U6kgQjenAgdKIBhRd/HU+eUsTMeOD052LoAuWMX+MGZuJLvRQZ21/DNOmt0bqdJI61HDmrS6GSU7uJz3tHL/uU25f3/D60/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-f8cecc-1-ea6b66-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(248, 206, 204); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(234, 107, 102); stop-opacity: 1;"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-e6d0de-1-d5739d-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(230, 208, 222); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(213, 115, 157); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M 0 23 L 0 0 L 420 0 L 420 23" fill="url(#mx-gradient-f8cecc-1-ea6b66-1-s-0)" stroke="#b85450" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 23 L 0 420 L 420 420 L 420 23" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 23 L 420 23" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="209.5" y="16">
+                Client 1
+            </text>
+        </g>
+        <path d="M 600 23 L 600 0 L 800 0 L 800 23" fill="url(#mx-gradient-e6d0de-1-d5739d-1-s-0)" stroke="#996185" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 600 23 L 600 200 L 800 200 L 800 23" fill="none" stroke="#996185" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 600 23 L 800 23" fill="none" stroke="#996185" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="699.5" y="16">
+                Client 2
+            </text>
+        </g>
+        <path d="M 439.5 145 L 439.5 155.5 L 420.5 140 L 439.5 124.5 L 439.5 135 L 580.5 135 L 580.5 124.5 L 599.5 140 L 580.5 155.5 L 580.5 145 Z" fill="url(#mx-gradient-e6d0de-1-d5739d-1-s-0)" stroke="#996185" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>
